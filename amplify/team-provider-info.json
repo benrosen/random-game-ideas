@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-randomgameideas-dev-31417-authRole",
+      "UnauthRoleArn": "arn:aws:iam::326238338403:role/amplify-randomgameideas-dev-31417-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::326238338403:role/amplify-randomgameideas-dev-31417-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-randomgameideas-dev-31417-deployment",
+      "UnauthRoleName": "amplify-randomgameideas-dev-31417-unauthRole",
+      "StackName": "amplify-randomgameideas-dev-31417",
+      "StackId": "arn:aws:cloudformation:us-east-1:326238338403:stack/amplify-randomgameideas-dev-31417/2f7db610-4b40-11eb-bdca-0a292b885373",
+      "AmplifyAppId": "d1zkafpveskoev"
+    }
+  }
+}
