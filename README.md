@@ -24,7 +24,7 @@ First, a template is chosen randomly [from a list][1]. Then, [sentencer][3] is u
 
 Got an idea for a template? Great! Got ten ideas for templates? Even better! Add your idea(s) to [templates.js][1] and then [create a pull request][2]!
 
-[0]: https://github.com/benrosen/random-game-ideas "randomideas.link"
+[0]: https://randomideas.link "random ideas"
 [1]: https://github.com/benrosen/random-game-ideas/blob/f13823e7a846aa40dded173094f2f35fa03850b1/src/templates.js "templates"
 [2]: https://github.com/benrosen/random-game-ideas/pulls "pull requests"
 [3]: https://github.com/kylestetz/Sentencer "madlibs-style sentence templating"
