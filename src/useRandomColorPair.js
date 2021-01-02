@@ -7,7 +7,6 @@ export default function useRandomColorPair() {
 
   const randomize = useCallback(() => {
     const newPair = getColorPair();
-    console.log(newPair);
     setColorPair(newPair);
   }, []);
 
