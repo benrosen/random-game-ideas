@@ -10,6 +10,7 @@ const templates = [
   "no {{ nouns }}",
   "{{ nouns }}, but {{ adjective }}",
   "{{ noun }} simulator",
+  "{{ an_adjective }} {{ noun }}",
 ];
 
 export default templates;
