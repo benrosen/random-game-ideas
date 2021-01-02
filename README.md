@@ -10,9 +10,9 @@ Need some inspiration? Having trouble coming up with ideas for your new game? Fe
 
 - fighting fishermen :fishing_pole_and_fish:
 - a duckling vs antelopes :duck:
-- you are a threadbare almanac :notebook_with_decorative_cover:
+- compete for animes :jp:
 - rhythms, but bosomed :notes:
-- no breaks :runner:
+- you are a wizard kevin :mage:
 
 Unsatisfied? Visit [https://randomideas.link][0] to generate your own.
 
