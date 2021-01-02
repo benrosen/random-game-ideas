@@ -1,1 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap");
+
+.ui.grid {
+  margin: 0;
+}
