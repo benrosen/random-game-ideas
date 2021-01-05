@@ -13,6 +13,7 @@ Need some inspiration? Having trouble coming up with ideas for your new game? Fe
 - compete for animes :jp:
 - rhythms, but bosomed :notes:
 - you are a wizard kevin :mage:
+- watch out for stinko deodorants :nose:
 
 Unsatisfied? Visit [https://randomideas.link][0] to generate your own.
 
